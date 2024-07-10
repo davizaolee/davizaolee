@@ -1,4 +1,4 @@
-- 👋 Olá, Eu Sou Davi Lel 
+- 👋 Hi, I Am Sou Davi Lel 
 - 👀 I’m interested in Learn Web Development
 - 🌱 I’m currently learning Tailwind and Javcript
 - ⚡ Fun fact: i like read Programming/computer books
